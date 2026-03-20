@@ -1,0 +1,21 @@
+{
+  "name": "RAIZ² - Sistema de Evolução Consciente",
+  "short_name": "RAIZ²",
+  "start_url": "https://sistemaraiz2.com.br/?m=1",
+  "display": "standalone",
+  "background_color": "#173F35",
+  "theme_color": "#173F35",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://sistemaraiz2.com.br/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sistemaraiz2.com.br/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
